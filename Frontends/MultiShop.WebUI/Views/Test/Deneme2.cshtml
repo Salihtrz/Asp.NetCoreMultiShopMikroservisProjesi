@@ -1,0 +1,22 @@
+﻿@model List<ResultCategoryDto>
+@{
+    Layout = null;
+}
+<br /><br />
+<div>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Category Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.CategoryName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
