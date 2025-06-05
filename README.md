@@ -65,7 +65,9 @@
   </ul>
   <div>
     <h2> Projeye Ait Resimler</h2>
-    <img src="/ProjectScreenShots/localhost_7142_Default.png" />
+    <img src="/ProjectScreenShots/localhost_7030_Default.png" />
+    <br/>
+    <img src="/ProjectScreenShots/localhost_7030_ProductList_ProductDetail_67b3a781ac0c55d6ad52120a.png" />
     <br/>
     <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-30 021621.png" />
     <br/>
@@ -88,9 +90,5 @@
     <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-30 022322.png" />
     <br/>
     <img src="/ProjectScreenShots/Ekran görüntüsü 2025-06-05 233353.png" />
-    <br/>
-    <img src="/ProjectScreenShots/localhost_7030_Default.png" />
-    <br/>
-    <img src="/ProjectScreenShots/localhost_7030_ProductList_ProductDetail_67b3a781ac0c55d6ad52120a.png" />
   </div>
 </div>
